@@ -1,14 +1,13 @@
-# MLOPS
-MLOps na Prática — Qualidade
+💡 MLOps na Prática — Qualidade Total!
 
-# Projeto: Classificação de Sentimentos
+🚀 Projeto: Classificação de Sentimentos
+Aprenda MLOps de verdade aplicando em um desafio real: análise de sentimentos em tweets!
 
-Este projeto tem como objetivo ensinar conceitos práticos de MLOps aplicados a um problema real de classificação de sentimentos em tweets.
+🔎 Etapas do Projeto:
+1️⃣ Exploração de Dados: Limpeza, análise e visualização do dataset.
+2️⃣ Pipeline de Machine Learning: Validação, treino e salvamento do modelo.
+3️⃣ Deploy Fácil: Teste o modelo treinado numa interface interativa.
+4️⃣ Testes Automatizados: Qualidade garantida em cada etapa!
+5️⃣ Monitoramento & Fairness: Avalie viés, acompanhe desempenho e entenda justiça no seu modelo.
 
-## Etapas do Projeto
-
-1. **Exploração de Dados:** Limpeza, análise e visualização do dataset.
-2. **Construção da Pipeline:** Validação de dados, treino, validação e salvamento do modelo.
-3. **Deploy:** Uso do modelo treinado por meio de uma interface interativa.
-4. **Testes Automatizados:** Garantia de qualidade da pipeline.
-5. **Monitoramento e Fairness:** Avaliação de viés, acurácia por grupo e simulação de monitoramento.
+👉 Bora aprender MLOps de forma prática?

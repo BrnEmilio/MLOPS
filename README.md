@@ -1,6 +1,7 @@
 💡 MLOps na Prática — Qualidade
 
 🚀 Projeto: Classificação de Sentimentos
+
 Aprenda MLOps de verdade aplicando em um desafio real: análise de sentimentos em tweets!
 
 🔎 Etapas do Projeto:

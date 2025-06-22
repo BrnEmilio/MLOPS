@@ -14,6 +14,6 @@ Aprenda MLOps de verdade aplicando em um desafio real: análise de sentimentos e
 
 4️⃣ Testes Automatizados: Qualidade garantida em cada etapa!
 
-5️⃣ Monitoramento & Fairness: Avalie viés, acompanhe desempenho e entenda justiça no seu modelo.
+5️⃣ Monitoramento & Fairness: Avalie e mitigue viés, acompanhe desempenho.
 
 6️⃣ Configuração da esteira integrada com testes automatizados

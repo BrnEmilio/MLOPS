@@ -16,4 +16,4 @@ Aprenda MLOps de verdade aplicando em um desafio real: análise de sentimentos e
 
 5️⃣ Monitoramento & Fairness: Avalie viés, acompanhe desempenho e entenda justiça no seu modelo.
 
-6️⃣ Configuração da esteira integrada
+6️⃣ Configuração da esteira integrada com testes automatizados

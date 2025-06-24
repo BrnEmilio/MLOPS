@@ -4,7 +4,7 @@ import os
 
 st.title("Classificador de Sentimento")
 
-texto = st.text_input("Digite um tweet")
+texto = st.text_input("Digite um tweet: ")
 
 if os.path.exists("model.joblib") and os.path.exists("vectorizer.joblib"):
     model = joblib.load("model.joblib")
